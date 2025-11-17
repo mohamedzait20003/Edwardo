@@ -2,7 +2,6 @@ node_modules/
 dist/
 build/
 .env
-.env.*
 .DS_Store
 *.log
 *.pyc
@@ -15,13 +14,6 @@ coverage/
 frontend/node_modules/
 frontend/dist/
 frontend/.env*
-backend/__pycache__/
-backend/.env*
-backend/*.pyc
-backend/*.db
-backend/coverage/
-backend/.vscode/
-backend/.idea/
 *.bak
 *.tmp
 *.swp
